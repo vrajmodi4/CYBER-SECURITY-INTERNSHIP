@@ -26,3 +26,6 @@ Configure and test firewall rules to block port 23 (Telnet) and document the ste
 3. Tested connection attempt to port 23 (local and remote tests).
 4. Removed the test rule and restored original configuration.
 5. Collected screenshots and command outputs.
+
+
+
